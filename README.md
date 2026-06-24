@@ -55,6 +55,7 @@ Sistema de gestión de turnos para gimnasios desarrollado con **Node.js + Expres
 ---
 
 ## Estructura del Proyecto
+CORREGIR!------------------------------------------------------
 GymFit-SistemaTurnos/
 │
 ├── diseno/ # Diseño del sistema
@@ -84,7 +85,6 @@ GymFit-SistemaTurnos/
 │
 └── README.md # Presentación del proyecto
 
-text
 
 ---
 
