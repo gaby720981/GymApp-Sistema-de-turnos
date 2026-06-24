@@ -1,2 +1,2 @@
 # GymApp-Sistema-de-turnos
-Sistema de gestión de turnos para gimnasio
+Sistema de gestión de turnos
